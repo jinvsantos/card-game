@@ -81,7 +81,7 @@ var carta9 = {
 }
 var carta10 = {
   nome: "Dr.Reed",
-  imagem: 'https://rollingstone.uol.com.https://sm.ign.com/ign_br/screenshot/default/reed-richards-iron-man_8fdp.jpg/media/_versions/img-1026415-wolverine1_widelg.jpg',
+  imagem: 'https://static.wikia.nocookie.net/marvel/images/1/17/Fantastic_Four_Vol_6_1_Mr._Fantastic_Variant_Textless.jpg/revision/latest?cb=20190401001532&path-prefix=pt-br',
   atributos: {
   ATK: 7,
   DEF: 7,
