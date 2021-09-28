@@ -81,7 +81,7 @@ var carta9 = {
 }
 var carta10 = {
   nome: "Dr.Reed",
-  imagem: 'https://static.wikia.nocookie.net/marvel/images/1/17/Fantastic_Four_Vol_6_1_Mr._Fantastic_Variant_Textless.jpg/revision/latest?cb=20190401001532&path-prefix=pt-br',
+  imagem: 'https://upload.wikimedia.org/wikipedia/pt/b/ba/Reedr.jpg',
   atributos: {
   ATK: 7,
   DEF: 7,
