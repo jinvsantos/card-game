@@ -20,8 +20,8 @@ var carta3 = {
   nome: "Capitan America",
   imagem: 'https://cdn.ome.lt/CNKaJ1y3eLBvmLantM-Is7x1ll0=/480x360/smart/extras/conteudos/captainamerica1.jpg',
   atributos: {
-  ATK: 7,
-  DEF: 8,
+  ATK: 6,
+  DEF: 7,
   INT: 5,
   }
 }
@@ -29,9 +29,9 @@ var carta4 = {
   nome: "Thor",
   imagem: 'https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/06/cropped-Thor.jpg',
   atributos: {
-  ATK: 10,
-  DEF: 7,
-  INT: 7,
+  ATK: 9,
+  DEF: 4,
+  INT: 5,
   }
 }
 var carta5 = {
@@ -43,7 +43,53 @@ var carta5 = {
   INT: 2,
   }
 }
-var cartas = [carta1, carta2, carta3, carta4, carta5]
+var carta6 = {
+  nome: "Wanda",
+  imagem: 'https://www.einerd.com.br/wp-content/uploads/2020/09/Feiticeira-Escarlate-1.jpg',
+  atributos: {
+  ATK: 10,
+  DEF: 4,
+  INT: 5,
+  }
+}
+var carta7 = {
+  nome: "QuickSilver",
+  imagem: 'https://theworldisthegeekblog.files.wordpress.com/2021/01/legiao_8hoiv5nx1_igjhv7qs9bfauye4bultjwmmad63zef0.jpg.jpeg?w=760',
+  atributos: {
+  ATK: 8,
+  DEF: 3,
+  INT: 6,
+  }
+}
+var carta8 = {
+  nome: "Wolverine",
+  imagem: 'https://rollingstone.uol.com.br/media/_versions/img-1026415-wolverine1_widelg.jpg',
+  atributos: {
+  ATK: 7,
+  DEF: 9,
+  INT: 3,
+  }
+}
+var carta9 = {
+  nome: "Dr Strange",
+  imagem: 'https://uploads.jovemnerd.com.br/wp-content/uploads/2018/02/doutor-estranho.jpg',
+  atributos: {
+  ATK: 8,
+  DEF: 8,
+  INT: 9,
+  }
+}
+var carta10 = {
+  nome: "Dr.Reed",
+  imagem: 'https://rollingstone.uol.com.https://sm.ign.com/ign_br/screenshot/default/reed-richards-iron-man_8fdp.jpg/media/_versions/img-1026415-wolverine1_widelg.jpg',
+  atributos: {
+  ATK: 7,
+  DEF: 7,
+  INT: 10,
+  }
+}
+
+var cartas = [carta1, carta2, carta3, carta4, carta5, carta6, carta7, carta8, carta9, carta10]
 var cartaMaquina = 0
 var cartaJogador = 0
 
