@@ -1,2 +1,1 @@
-# card-game
- Marvel CardGame 
+Supertrunfo tematico Marvel usando HTML/CSS/Javascript
